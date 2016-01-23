@@ -1,0 +1,3 @@
+#
+# robots.txt for 网店技术交流中心版 shopjl.com
+#
