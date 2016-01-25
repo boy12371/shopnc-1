@@ -10,7 +10,7 @@
   'ap_price' => '100',
   'adv_num' => '1',
   'click_num' => '0',
-  'default_content' => '04418235791378401.jpg',
+  'default_content' => '05067978691649551.jpg',
   'adv_list' => 
   array (
     0 => 
@@ -18,7 +18,7 @@
       'adv_id' => '15',
       'ap_id' => '9',
       'adv_title' => '首页通栏',
-      'adv_content' => 'a:2:{s:7:"adv_pic";s:21:"04716538681718544.png";s:11:"adv_pic_url";s:13:"www.corecreate.cn";}',
+      'adv_content' => 'a:2:{s:7:"adv_pic";s:21:"05067979695195580.jpg";s:11:"adv_pic_url";s:0:"";}',
       'adv_start_date' => '1388505600',
       'adv_end_date' => '1577721600',
       'slide_sort' => '0',

@@ -61,7 +61,7 @@ final class Base{
 		$nc_config['db']['master'] = $nc_config['db'][1];
 		$setting_config = $nc_config;
 		$setting = ($setting = rkcache('setting')) ? $setting : rkcache('setting',true);
-		$setting['shopnc_version'] = 'Copyright 2015 <a href="http://www.corecreate.cn" target="_blank">www.corecreate.cn</a> All rights reserved.<br />上海核创实业有限公司<a href="http://www.corecreate.cn" target="_blank">www.corecreate.cn</a>';
+		$setting['shopnc_version'] = 'Copyright 2016 <a href="http://www.corecreate.cn" target="_blank">www.corecreate.cn</a> All rights reserved.<br />中国诚信网<a href="http://www.zhongguocx.org:85" target="_blank">www.zhongguocx.org:85</a>';
 		$setting_config = array_merge_recursive($setting,$nc_config);
 	}
 
